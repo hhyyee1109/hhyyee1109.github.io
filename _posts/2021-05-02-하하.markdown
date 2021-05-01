@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 하하
-image: 2.jp
+image: cafe.jpg
 date: 2021-05-02 
 tags: [rest, work]
 categories: rest
