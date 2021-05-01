@@ -1,0 +1,9 @@
+---
+layout: post
+title: 졸립군
+image: 2.jpg
+date: 2021-05-02 =
+tags: [workflow, minimalism]
+categories: minimalism
+---
+짜친다 졸려...
