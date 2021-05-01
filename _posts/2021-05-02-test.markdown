@@ -6,8 +6,11 @@
 
 이건 본문이고요!
 
+---
+layout: post
+title: Where I rest after work
 image: two_face.jpg
-
-이건 이미지입니다!
-
+date: 2021-05-02
+tags: [A, B]
+categories: rest
 ---
