@@ -1,5 +1,5 @@
 ---
-layout: diary
+layout: post
 title: 드디어 첫 글
 image: happy.jpg
 date: 2021-05-02 
