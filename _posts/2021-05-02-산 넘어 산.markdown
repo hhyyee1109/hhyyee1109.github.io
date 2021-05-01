@@ -1,7 +1,7 @@
 ---
 layout: post
 title: **산 넘어 산**
-image: two_face.jpg
+image: 내사진.png
 date: 2021-05-02 
 tags: [rest, work]
 categories: rest
