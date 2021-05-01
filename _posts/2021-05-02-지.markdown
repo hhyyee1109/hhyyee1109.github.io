@@ -17,3 +17,7 @@ categories: diary
 <p align="center">
   <img src="https://images.velog.io/images/roeniss/post/c208ff41-6002-4e24-8d10-9ce5dd2e0ac0/1.jpg"/>
 </p> 
+
+<p align="center">
+  <https://user-images.githubusercontent.com/68999151/116793450-c4342200-ab01-11eb-8dfa-6b44e02f7dc2.jpg/>
+</p> 
