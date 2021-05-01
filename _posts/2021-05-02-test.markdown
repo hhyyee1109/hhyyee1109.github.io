@@ -1,0 +1,12 @@
+---
+layout: post
+title: TEST
+image: two_face.jpg
+date: 2021-05-02 
+tags: [rest, work]
+categories: rest
+---
+문장 씁니다. 어쩌구저쩌구
+---
+
+<img src="C:\Users\joara\Downloads\SNS스타의 두얼굴.jpg" alt="SNS스타의 두얼굴" style="zoom:150%;" />
