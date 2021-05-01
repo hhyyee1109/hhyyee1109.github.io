@@ -10,7 +10,8 @@ categories: diary
 
 ![woman-591576_640](https://user-images.githubusercontent.com/68999151/116793440-bc747d80-ab01-11eb-8776-46e3cde08a87.jpg){: width="100%" height="100%"}
 
-<center><img src="/woman-591576_640/https://user-images.githubusercontent.com/68999151/116793440-bc747d80-ab01-11eb-8776-46e3cde08a87.jpg" width="300" height="300"></center>
+<center><img src="/woman-591576_640/68999151/116793440-bc747d80-ab01-11eb-8776-46e3cde08a87.jpg" width="300" height="300"></center>
+
 
 ![cafe](https://user-images.githubusercontent.com/68999151/116793450-c4342200-ab01-11eb-8dfa-6b44e02f7dc2.jpg)
 
