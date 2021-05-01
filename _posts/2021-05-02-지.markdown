@@ -8,7 +8,7 @@ categories: diary
 ---
 드디어 제대로 된 첫 글! 이것도 제대로 업로드되어야 할 텐데. 개발자들은 정말 힘들 것 같다. 하지만 정말 보람 있고 재미가 넘치는군! 오늘은 이만 하고 자야겠다~~ 
 
-1. 가운데 정렬
+1. 가운데 정렬 (웹상 구현. 모웹 변화x)
 <p align="center">
    <img src="https://user-images.githubusercontent.com/68999151/116793440-bc747d80-ab01-11eb-8776-46e3cde08a87.jpg"/>
 </p>
