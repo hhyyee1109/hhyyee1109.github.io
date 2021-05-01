@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 졸립군
-image: 2.jpg
+image: 내사진.png
 date: 2021-05-02 
 tags: [workflow, minimalism]
 categories: minimalism
