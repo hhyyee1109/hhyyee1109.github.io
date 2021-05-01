@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 하하
-image: 내사진.png
+image: 2.jp
 date: 2021-05-02 
 tags: [rest, work]
 categories: rest
