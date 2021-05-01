@@ -1,9 +1,0 @@
-
----
-layout: post
-title: ㅇㅁㄻㅇㄹ
-image: two_face.jpg
-date: 2021-05-02
-tags: [A, B]
-categories: rest
----
