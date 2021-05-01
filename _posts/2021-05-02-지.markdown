@@ -11,5 +11,4 @@ categories: diary
 ![woman-591576_640](https://user-images.githubusercontent.com/68999151/116793440-bc747d80-ab01-11eb-8776-46e3cde08a87.jpg)
 ![cafe](https://user-images.githubusercontent.com/68999151/116793450-c4342200-ab01-11eb-8dfa-6b44e02f7dc2.jpg)
 
-<img src="C:\Users\joara\Downloads\woman-591576_640.jpg" alt="woman-591576_640" style="zoom:50%;" /> 
-<img src="C:\Users\joara\Downloads\cafe.jpg" alt="cafe" style="zoom:50%;" />
+<img src="C:\Users\joara\Downloads\woman-591576_640.jpg" alt="woman-591576_640" style="zoom:50%;" />
