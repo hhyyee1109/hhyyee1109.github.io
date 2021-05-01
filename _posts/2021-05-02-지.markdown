@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 드디어 첫 글
-image: good.jpg
+image: sense.jpg
 date: 2021-05-02 
 tags: [daily, diary]
 categories: diary
