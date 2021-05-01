@@ -9,5 +9,4 @@ categories: rest
 문장 씁니다. 어쩌구저쩌구
 ---
 
-![SNS스타의 두얼굴](https://user-images.githubusercontent.com/68999151/116791298-43225e00-aaf4-11eb-821f-ad927cb971df.jpg)
 
