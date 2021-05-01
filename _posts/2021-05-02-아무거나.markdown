@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TEST
-image: 내사진.png
+image: 340X280_.jpg
 date: 2021-05-02 
 tags: [rest, work]
 categories: rest
