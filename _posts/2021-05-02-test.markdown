@@ -4,6 +4,6 @@
 
 이건 본문이고요!
 
-<img src="C:\Users\joara\Downloads\사랑에 빠질 때까지 앞으로 1초.jpg" alt="사랑에 빠질 때까지 앞으로 1초" style="zoom: 80%;" />
+<img src="C:\Users\joara\Downloads\SNS스타의 두얼굴.jpg" alt="SNS스타의 두얼굴" style="zoom:150%;" />
 
 이건 이미지입니다!
