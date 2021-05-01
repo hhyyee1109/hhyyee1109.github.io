@@ -4,6 +4,6 @@
 
 이건 본문이고요!
 
-<img src="C:\Users\joara\Downloads\SNS스타의 두얼굴.jpg" alt="SNS스타의 두얼굴" style="zoom:150%;" />
+image: two_face.jpg
 
 이건 이미지입니다!
